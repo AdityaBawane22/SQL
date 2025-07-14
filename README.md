@@ -1,1 +1,1 @@
-# SQL
+A collection of beginner to intermediate-level SQL queries and mini projects. Covers data retrieval, filtering, joins, aggregation, subqueries, and database design concepts. Ideal for strengthening SQL skills for data analysis and database management.
